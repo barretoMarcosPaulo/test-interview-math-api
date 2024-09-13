@@ -44,9 +44,10 @@ Certifique-se de que todas as dependências estão instaladas e, em seguida, use
 Clone o repositório e instale as dependências com Poetry:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/barretoMarcosPaulo/test-interview-math-api
+cd test-interview-math-api
 poetry install
+poetry shell
 ```
 
 ## para iniciar a API
