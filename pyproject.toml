@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "test-interview-math-api"
+version = "0.1.0"
+description = ""
+authors = ["Marcos Paulo"]
+readme = "README.md"
+packages = [{include = "test_interview_math_api"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+fastapi = "^0.114.1"
+uvicorn = "^0.30.6"
+pytest = "^8.3.3"
+black = "^24.8.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
