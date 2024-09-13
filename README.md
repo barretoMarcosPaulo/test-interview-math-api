@@ -1,4 +1,4 @@
-# Projeto de API Matemática com FastAPI
+# Simple Math API
 
 Este projeto é uma API RESTful desenvolvida com FastAPI para realizar operações matemáticas simples. A API permite somar e calcular a média de uma lista de inteiros.
 
